@@ -1,6 +1,6 @@
 # Realtime Chat Application
 
-Web chat application developed with React.js, Node.js, Express.js, and Socket.IO.
+Web chat application developed with React.js, Node.js, and Socket.IO.
 
 ## How to Use
 
